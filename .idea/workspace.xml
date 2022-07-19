@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="188a2dfa-1480-44b2-8bda-cf258cf13458" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -48,6 +49,7 @@
     "RequestMappingsPanelWidth1": "75",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "last_opened_file_path": "/Users/damien/test/spring-boot-test",
     "node.js.detected.package.eslint": "true",
@@ -86,7 +88,7 @@
       <option name="presentableId" value="Default" />
       <updated>1658155714946</updated>
       <workItem from="1658155716403" duration="9387000" />
-      <workItem from="1658225586877" duration="68000" />
+      <workItem from="1658225586877" duration="1224000" />
     </task>
     <servers />
   </component>
